@@ -25,15 +25,15 @@ const CONFIG = {
             text: "Do you like/love/mahal me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            secretAnswer: "I don't like/love/mahal you, I SUPER DUPER LOVE you!!!"           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
+            text: "How much do you love meee?",                          // For the love meter
+            startText: "I think this much?",                                   // Text before the percentage
             nextBtn: "Next !!!!"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2026?? (pleaseesz)", // The big question!
+            text: "Aryana, Will you be my Valentine on February 14th, 2026?? (pleaseesz)", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
